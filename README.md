@@ -5,14 +5,14 @@ https://www.geocaching.com/play/results?<parameters>
 
 ##
 
-### sa=
+## Parameter "Archived"
 0: doesn't show archived caches
-1: show archived caches, too
+1: include archived caches
 
-#### Notes
-The sa-parameter works only together with fb or nfb parameter.
+### Notes
+The usage of the sa parameter is limited. The parameter only works in combination with found by (fb) parameter.
 
-#### Examples
-[https://www.geocaching.com/play/results?fb=CachingFoX&hf=0&sa=0](https://www.geocaching.com/play/results?fb=CachingFoX&hf=0&sa=0)
-[https://www.geocaching.com/play/results?fb=CachingFoX&hf=0&sa=1](https://www.geocaching.com/play/results?fb=CachingFoX&hf=0&sa=1)
+### Examples
+* [https://www.geocaching.com/play/results?fb=CachingFoX&sa=0](https://www.geocaching.com/play/results?fb=CachingFoX&sa=0)
+* [https://www.geocaching.com/play/results?fb=CachingFoX&sa=1](https://www.geocaching.com/play/results?fb=CachingFoX&sa=1)
 
